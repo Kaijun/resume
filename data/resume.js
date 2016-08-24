@@ -1,6 +1,6 @@
 module.exports = {
   name: "陈凯俊",
-  intro: "Hi, 我是 Kaijun, 保持新事物充满好奇心的同时不断折腾一切我所认为酷的东西. 专注于前端开发 / Node.js, 偶尔玩玩 Docker, 学学 Golang, <strike>听听</strike>听不懂机器学习的公开课. Aim to be a Lean Developer and Magician!",
+  intro: "Hi, 我是 Kaijun, 保持新事物充满好奇心的同时不断折腾一切我所认为酷的东西. 专注于<b>前端开发 / Node.js<b>, 偶尔玩玩 Docker, 学学 Golang, <strike>听听</strike>听不懂机器学习的公开课. Aim to be a Lean Developer and Magician!",
   contact: [
     {
       title: "Mail",
