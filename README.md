@@ -14,4 +14,4 @@
 2. Edit `/data/resume.js` to fit your own personal information.
 3. Serving:  `npm run start`
 4. Building: `npm run build`
-5. Deploying to `gh-pages` branch: `npm run deploy` (After Building)
+5. Deploying to `gh-pages` branch: `npm run deploy` (Building included)
