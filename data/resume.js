@@ -61,7 +61,7 @@ module.exports = {
     },
     {
       title: "CV-Generator",
-      desc: "一个通过改写配置文件内的个人信息就可以自动生成个人简历的工具. 使用 NPM Scripts & Gulp 自动化所有开发, 编译, 部署流程, 使用 Flex 来布局, CSS3 Animation 作简单的效果. (此简历就是由它生成 😄 )",
+      desc: "一个通过改写配置文件内的个人信息就可以自动生成个人简历的工具. 使用 NPM Scripts & Gulp 自动化所有开发, 编译, 部署流程, 使用 Flexbox 来布局, CSS3 Animation 作简单的效果. ( 此简历就是由它生成 😄 )",
       url: "https://github.com/kaijun/cv-generator/"
     },
     {
