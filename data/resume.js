@@ -72,7 +72,7 @@ module.exports = {
   ],
   educations: [
     {
-      major: "网络工程",
+      major: "网络工程(计算机科学)",
       degree: "学士",
       college: "西安电子科技大学",
       period: "Sep 2008 - Jul 2012",
