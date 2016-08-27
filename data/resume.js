@@ -56,7 +56,7 @@ module.exports = {
     },
     {
       title: "Graphicuss",
-      desc: "毕业设计项目. 一个类 StackOverflow, 用于教育用途高度可交互化的系统. 在回答问题功能上, 用户可以使用图形绘画的方式解答问题. 并提供了了 Canvas 内容的序列化以及可持续化的解决方案. 使用户可以引用他人的(图形)解答, 并且直接在此基础上做精细的修改. 同时使用 WebSocket 实现了用户可以实时更新某一资源(问题/答案)的最新状态, 提供了使用 WebSocket 订阅特定资源的解决方案. 整个前台技术栈使用了 React.js + Redux + Webpack, 并使用 ES6 + Babel 使用 JavaScript 最新特性. 并遵循了 React/Redux 的最佳实践. ",
+      desc: "毕业设计项目. 一个类 StackOverflow, 用于教育用途高度可交互化的简易系统, 独立开发了前后台系统.  在回答问题功能上, 用户可以使用图形绘画的方式解答问题. 并提供了了 Canvas 内容的序列化以及可持续化的解决方案. 使用户可以引用他人的(图形)解答, 并且直接在此基础上做更精细的修改. 同时使用 WebSocket 实现了用户可以实时更新某一资源(问题/答案)的最新状态, 提供了使用 WebSocket 订阅特定资源的解决方案. 整个前台技术栈使用了 React.js + Redux + Webpack, 并使用 ES6 + Babel 使用 JavaScript 最新特性, 并遵循了 React/Redux 的最佳实践. 后台使用 Express + Mongoose(ORM)/MongoDB + JWT(Auth) 等.",
       url: "https://github.com/Kaijun/graphicuss"
     },
     {
@@ -66,7 +66,7 @@ module.exports = {
     },
     {
       title: "Zimuzu 自动签到程序",
-      desc: "为了偷懒的一个 Hack 工具 😈 .  字幕组自动签到程序, 部署到Heroku后, 默认每2小时尝试签到一次. 可以提供多组账号同时签到. 但是每个帐号成功签到后会记录, 今天便不再尝试签到. 技术栈上主要使用了 Phantom.js 来模拟请求以及用户操作. 使用 Node.js V6 加上 Babel 的 async/await 插件, 更加同步化得处理异步请求.",
+      desc: "为了偷懒的一个 Hack 工具 😈 . 字幕组(网站)自动签到程序, 技术栈上主要使用了 Phantom.js 来模拟请求以及用户操作. 使用 Node.js V6 加上 Babel 的 async/await 插件, 更加同步化地处理异步请求.",
       url: "https://github.com/Kaijun/zimuzu-auto-sign-heroku"
     },
   ],
@@ -90,16 +90,16 @@ module.exports = {
       score: 9
     },
     {
-      name: "HTML",
-      score: 6
-    },
-    {
       name: "NodeJS",
       score: 9
     },
     {
+      name: "HTML",
+      score: 7
+    },
+    {
       name: "CSS",
-      score: 8
+      score: 7
     },    
     {
       name: "Linux",
